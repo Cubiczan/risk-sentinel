@@ -1,0 +1,4 @@
+{ "name": "dreamdex-risk-sentinel", "version": "0.1.0", "private": true, "type": "module",
+  "scripts": { "start": "tsx src/bot.ts", "dry": "DRY_RUN=true tsx src/bot.ts" },
+  "dependencies": { "@somnia-chain/markets-sdk": "^0.32.1", "viem": "^2.57.7" },
+  "devDependencies": { "tsx": "^4.23.15" } }
