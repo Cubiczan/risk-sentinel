@@ -43,3 +43,4 @@
 { "t": "2026-10-27T10:09:30.651Z", "kind": "place market long", "hash": "0x25a6c8e3a911d10f3b554ccdcbb3e5cd9e6d7c8114e4791d06155a1ae0f6f930", "tag": "sentinel-demo-open", "symbol": "ETH/USDso:USDso", "qty": 0.004, "price": 2323.7878, "orderId": "18815678955183752724105", "filled": 0.004 }
 { "t": "2026-10-27T10:09:32.749Z", "kind": "place market short", "hash": "0x6a92f6a2ace8b9e6f0a7f6dde37866f2b416fdf5908326122390408ed618b08b", "tag": "sentinel-derisk", "symbol": "ETH/USDso:USDso", "qty": 0.004, "price": 2277.3564, "orderId": "73786976294848282254", "filled": 0.004 }
 { "t": "2026-10-27T22:02:30Z", "kind": "monitor-only", "note": "3 cycles, flat, equity $84.62, Healthy, no tx" }
+{ "t": "2026-10-28T04:03:21Z", "kind": "monitor-only", "note": "3 cycles, flat, equity $84.61, Healthy, no tx" }
